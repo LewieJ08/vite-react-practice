@@ -1,10 +1,10 @@
 import "./App.css"
-import CardCounter from "./components/CardCounter"
+import ToggleButton from "./components/ToggleButton"
 
 function App() {
   return (
     <div className='card-container'>
-      <CardCounter />
+      <ToggleButton />
     </div>
   )
 }
